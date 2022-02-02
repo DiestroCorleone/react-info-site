@@ -1,4 +1,5 @@
 {
+  "homepage": "https://diestrocorleone.github.io/react-info-site",
   "name": "project",
   "dependencies": {
     "react": "17.0.2",
